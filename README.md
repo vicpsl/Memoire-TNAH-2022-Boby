@@ -1,4 +1,4 @@
-# Memoire-TNAH-2022-Boby
+# Mémoire TNAH 2022 Boby
 La déportation des Roms en Transnistrie, 1942-1944. Étude de l’appariement de listes de déportés.
 
 Ce dépôt contient le rapport (pdf et tex) du mémoire de stage de fin d'étude du Master 2 « Technologies numériques appliquées à l’histoire » au sein de l'EHESS.
